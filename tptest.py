@@ -11,6 +11,7 @@ art = text2art("TP PYTHON")
 print(art)
 print("ok")
 print("okok")
+print ("samir")
 
 
 name = input("entrer votre nom ! : ")
